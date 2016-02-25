@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url('http://static.sportskeeda.com/wp-content/uploads/2013/12/sg-foley_hof-2056264.jpg');
+    min-height:100%;
+    background-size:cover;
+}
+
+a {
+    font-size: 18px;
+    color: #6233B7;
+}
+
+.container-fluid {
+    font-size: 20px;
+}
+
+.text-center {
+    font-family: 'Montserrat', sans-serif;
+}
